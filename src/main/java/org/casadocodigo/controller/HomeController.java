@@ -10,7 +10,7 @@ public class HomeController {
 	public String index() {
 		System.out.println("Entrando na index");
 		
-		return "home.jsp";
+		return "home";
 	}
 	
 }
